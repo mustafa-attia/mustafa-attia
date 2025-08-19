@@ -17,4 +17,8 @@ I'm a software developer with a strong passion for creating visually appealing a
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-000000?style=flat&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
+![NodeJS](https://img.shields.io/badge/-NodeJS-000000?style=flat&logo=NodeJS)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
+
 
